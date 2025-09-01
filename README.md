@@ -16,6 +16,7 @@ Análise de vagas em TI destacou hard skills como JavaScript, Python e SQL, alé
     git clone https://github.com/Vitoria2025800/Relat-rio---Analise-de-oportunidades-de-emprego-para-desenvolvedores.git
     ```
 2. Acesse os relatórios e materiais na pasta do projeto para consulta e estudo.
+[Uploading Experiência pratica 2.pdf…]()
 
 ## Materiais
 
